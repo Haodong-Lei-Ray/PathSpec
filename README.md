@@ -1,4 +1,4 @@
-## PathSpec
+## Parallel-Path Relaxed Speculative Jacobi Decoding for Accelerating Auto-Regressive Text-to-Image Generation
 
 This directory provides scripts for running full-dataset PathSpec evaluation with the `speculative_jacobi` setting and a static grouped tree (`Grouped_Tree_2`).
 
